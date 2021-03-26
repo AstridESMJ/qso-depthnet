@@ -1,12 +1,14 @@
 """
+###########################################
+# Data Augmentation for FITS files        #
+# based on Keras DataAugmentation library #
+###########################################
+
 __author__ = "Astrid E. San-Martin-Jimenez"
 __copyright__ = "Keras"
-__credits__ = ["Astrid E. San-Martin-Jimenez"]
-__license__ = " "
+__credits__ = ["François Chollet"]
 __version__ = "2.2.5"
-__maintainer__ = "Astrid E. San-Martin-Jimenez"
 __email__ = "aesanmar@uc.cl"
-__status__ = " "
 __date__ = "february 21th, 2020"
 """
 
