@@ -1,2 +1,3 @@
 # QSOCNN2021
-CNN architecture for QSO classification in ATLAS survey.
+
+A convolutional arquitecture for Automatic Classification of Quasars in ATLAS
