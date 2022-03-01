@@ -10,5 +10,5 @@ San-Martin-Jimenez, Pichara, Barrientos, Rojas, Moya-Sierralta & ATLAS, 2021**
 
 
 message:
-  If you use this software, please cite it using the metadata from citation.cff file.
+  If you use this software, please cite it using the metadata from CITATION.cff file.
 
