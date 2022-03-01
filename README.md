@@ -7,10 +7,6 @@ San-Martin-Jimenez, Pichara, Barrientos, Rojas, Moya-Sierralta & ATLAS, 2021**
 
 
 
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
-cff-version: 1.2.0
 title: >-
   A convolutional arquitecture for Automatic
   Classification of Quasars in ATLAS
