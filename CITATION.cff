@@ -3,8 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  A convolutional arquitecture for Automatic
-  Classification of Quasars in ATLAS
+  Depthwise Architecture for Multi-Band Automatic Quasars Classification in ATLAS
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
