@@ -1,4 +1,4 @@
-# QSOCNN2021
+# QSODepthNet2021
 
 Depthwise Architecture for Multi-Band Automatic Quasars Classification in ATLAS
 
