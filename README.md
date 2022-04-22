@@ -1,8 +1,8 @@
 # QSOCNN2021
 
-A convolutional arquitecture for Automatic Classification of Quasars in ATLAS
+Depthwise Architecture for Multi-Band Automatic Quasars Classification in ATLAS
 
-**A convolutional arquitecture for Automatic Classification of Quasars in ATLAS, 
+**Depthwise Architecture for Multi-Band Automatic Quasars Classification in ATLAS, 
 San Martín-Jiménez, Pichara, Barrientos, Rojas, Moya-Sierralta & ATLAS, 2021**
 
 
