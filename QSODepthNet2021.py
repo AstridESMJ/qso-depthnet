@@ -6,7 +6,7 @@
 __author__ = "Astrid E. San-Martin-Jimenez"
 __email__ = "aesanmar@uc.cl"
 __date__ = "january 30th, 2021"
-__paper__= "A convolutional arquitecture for Automatic Classification of Quasars in ATLAS,
+__paper__= "Depthwise Architecture for Multi-Band Automatic Quasars Classification in ATLAS,
 	    San-Martin-Jimenez, Pichara, Barrientos, Rojas, Moya-Sierralta & ATLAS, 2021"                                                                                             #
 
 ###################################################################################################
