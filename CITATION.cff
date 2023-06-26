@@ -2,17 +2,61 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: >-
-  Depthwise Architecture for Multi-Band Automatic Quasars Classification in ATLAS
+title: qso-depthnet
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - given-names: Astrid Elizabeth
-    family-names: San Martín-Jiménez
+  - given-names: Astrid
+    name-particle: Elizabeth
+    family-names: San-Martin-Jimenez
     email: aesanmar@uc.cl
-    affiliation: >-
-      Computer Science Department, Pontificia
-      Universidad Católica de Chile, Santiago, Chile
+    affiliation: Pontificia Universidad Catolica de Chile
     orcid: 'https://orcid.org/0000-0002-3240-7433'
+identifiers:
+  - type: doi
+    value: 10.1093/mnras/stad1859
+    description: >-
+      Depthwise Convolutional Neural Network for Multi-Band
+      Automatic Quasars Classification in ATLAS, MNRAS, 2023
+repository-code: 'https://github.com/AstridESMJ/qso-depthnet.git'
+abstract: >
+  In recent years, the astronomical scientific community has
+  made significant efforts to automate quasars’ detection.
+  Automatic classification of these objects is challenging
+  since they are very distant and appear as point sources,
+  outnumbered by other sources. Thus, performing automatic
+  morphological classification is not straightforward; color
+  dimension seems better as a key concept. Previous work
+  using machine learning tools has proposed classifiers that
+  use features such as magnitude and color, working only for
+  quasar representation, which requires high-quality
+  observational data that is not always available. Those
+  features are computationally costly in extensive image
+  surveys like VST ATLAS. With the continuous developments
+  in Deep Learning architectures, we find a powerful tool to
+  perform automatic classification from images, where
+  capturing information from different bands takes relevance
+  in this kind of approach. In this work, we developed a new
+  Quasar selection method that we hope to apply to the
+  complete ATLAS survey in subsequent papers, where the
+  completeness and efficiency of Depthwise Architecture will
+  be compared to more standard methods such as selection on
+  the colour-colour diagrams and machine-learning
+  feature-based methods. This automatic quasar
+  classification tool uses images in u, g, i, z bands
+  available in ATLAS, heading towards new survey
+  requirements facing the big data era. We propose a Deep
+  Learning architecture based on depthwise convolutional
+  units that work directly with ATLAS images, reduced by the
+  VST pipeline. Our model reaches an accuracy of 96.53% with
+  a quasar classification f1-score of 96.49%, a very
+  competitive benchmark compared to previous unscalable
+  approaches.
+keywords:
+  - >-
+    qso, quasar, cnn, convolutional neural networks, image
+    processing
+version: 1.2.0
+date-released: '2021-01-30'
